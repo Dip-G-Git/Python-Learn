@@ -11,6 +11,8 @@ if run_program == "VariableDemo":
     import VariableDemo
 if run_program == "calculator":
     import calculator
+if run_program == "StringDemo":
+    import StringDemo
 
 
 
