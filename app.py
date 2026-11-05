@@ -1,4 +1,6 @@
 # My first python program - Hello World
+import numbers
+
 print("Hello World")
 
 # variable
@@ -25,3 +27,9 @@ sell_price = 100
 cost_price = input("Enter your cost price: ")
 profit = sell_price  - int(float(cost_price))
 print(profit)
+
+# calulator
+first_number = input("Enter your first number: ")
+second_number = input("Enter your second number: ")
+sum = int(first_number) + int(second_number)
+print(f"the sum of two number is {sum}")
