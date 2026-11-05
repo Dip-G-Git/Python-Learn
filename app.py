@@ -13,7 +13,8 @@ if run_program == "calculator":
     import calculator
 if run_program == "StringDemo":
     import StringDemo
-
+if run_program == "ArithmeticDemo":
+    import ArethmaticOperator
 
 
 
