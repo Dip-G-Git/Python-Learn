@@ -15,6 +15,8 @@ if run_program == "StringDemo":
     import StringDemo
 if run_program == "ArithmeticDemo":
     import ArethmaticOperator
+if run_program == "OperatorPrecedence":
+    import OperatorPrecedence
 
 
 
